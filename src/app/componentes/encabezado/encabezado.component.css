@@ -1,0 +1,23 @@
+.rounded-circle{
+    text-align: center;
+}
+
+h1{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-align: center;
+}
+
+#imageninfraestr{
+    width:60%;
+    height: 50%;
+    align-content: center;
+    
+}
